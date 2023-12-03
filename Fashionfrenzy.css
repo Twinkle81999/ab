@@ -1,0 +1,2065 @@
+.logo-img{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  bottom: 386rem;
+  left: 4rem;
+}
+
+.Fashion{
+color: rgb(128, 0, 128);
+position: relative;
+text-align: center;
+right: 30rem;
+top: 0rem;
+font-size: 45px;
+}
+.right-top-menu{
+    position: relative;
+    text-align: end;
+    list-style: none;
+    word-spacing: 1rem;
+    right: 1.5rem;
+    bottom: 3rem;
+}
+.right-top-menu a{
+    text-decoration: none;
+    color: black;
+}
+.right-top-menu li :hover{
+    color: blue;
+}
+.right-menu{
+    position: relative;
+    top: 1rem;
+    right: 3rem;
+    text-align: center;
+    list-style: none;
+    word-spacing: 2rem;
+    font-size: 20px;
+   
+}
+ .right-menu a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.right-menu a :hover{
+  color: aliceblue;
+}
+
+.right-menu li :hover{
+    color: blue;
+
+}
+
+.navbar{
+  width: 100%;
+  height: 50px;
+  background-color: #eba817;
+  border-radius: 20px;
+  margin-bottom: 10px;
+
+}
+.nav-child img{
+  width: 40px;
+  height: 40px;
+  border-radius: 200px;
+  margin-left: 60px;
+  
+}
+.nav-link{
+  display: flex!important;
+  justify-content: center!important;
+  margin-top: -30px;
+}
+.nav-child a{
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 20px;
+  color: black;
+}
+.nav-child a:hover{
+  color: white;
+  text-decoration: underline;
+}
+.nav-child-search{
+  position: relative;
+  right: 20px;
+  border-radius: 2rem;
+}
+
+
+#body-img{
+  width: 100%;
+  height: 400px;
+}
+
+.now{
+    position: relative;
+    text-align: center;
+    right: 20rem;
+    top: 3rem;
+    font-size: 25px;
+    letter-spacing: 8px;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+ 
+
+img:hover .card{
+        
+  
+}
+img, #parent {
+    cursor: pointer;
+    
+}
+.card:hover > img{
+    opacity:1;
+       transform: scale(1.4);
+             
+}
+.card header {
+    position:absolute;
+ 
+  top: 120%;
+
+  left: 0%;
+    padding: 1px;
+    border-radius:  25px;
+   width: 450px;
+         height: 90px;
+     transition: all .5s;
+    opacity:0;
+}
+.card:hover > header{
+  
+    opacity:1;
+         width: 450px;
+         height: 90px;
+             transform: translateY(-120px);
+}
+
+ .card {
+
+    	   transition: transform .7s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+border-radius: 500px;
+  /* margin: auto; */
+  text-align: start;
+  font-family: arial;
+  background: white;
+    width: 250px;
+  height: 250px;
+  position: relative;
+  right: -4rem;
+  top: 38rem;
+}
+.card:hover{
+
+   transform: scale(1.08)
+}
+  .centeri{ 
+  position: relative;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  }
+  span{
+    
+    position: relative;
+  }
+  .NIKE{
+    font-size: 20px;
+    position: relative;
+    left: 3.80rem;
+    top: 1rem;
+    font-weight: bold;
+    color: aliceblue;
+    background-color: black;
+    width: 130px;
+  }
+  .fstoffer{
+    font-size: 20px;
+    position: relative;
+    left: 3.50rem;
+    bottom: 4rem;
+    color: black;
+  }
+
+
+  img:hover .card2{
+        
+  
+  }
+  img, #parent {
+      cursor: pointer;
+      border-radius: 160px;
+      position: relative;
+      
+  }
+  .card2:hover > img{
+      opacity:1;
+         transform: scale(1.4);
+               
+  }
+  .card2 header {
+      position:absolute;
+    top: 120%;
+    left: 0%;
+      padding: 1px;
+      border-radius:  25px;
+     width: 450px;
+           height: 90px;
+       transition: all .5s;
+      opacity:0;
+  }
+  .card2:hover > header{
+    
+      opacity:1;
+           width: 450px;
+           height: 90px;
+               transform: translateY(-120px);
+  }
+  
+   .card2 {
+  
+             transition: transform .7s;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 500px;
+    /* margin: auto; */
+    text-align: start;
+    font-family: arial;
+    background: white;
+      width: 250px;
+    height: 250px;
+    position: relative;
+    left:  24rem;
+    top: 22.60rem;
+  }
+  .card2:hover{
+  
+     transform: scale(1.08)
+  }
+    .centeri{ 
+    position: relative;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    }
+    span{
+      
+      position: relative;
+    }  
+    .levis{
+        font-size: 20px;
+        position: relative;
+        left: 6rem;
+        top: 1rem;
+        font-weight: bold;
+        background-color: red;
+        width: 60px;
+      }
+      .fstoffer2{
+        font-size: 20px;
+        position: relative;
+        left: 3.50rem;
+        bottom: 4rem;
+        color: black;
+      }
+
+
+
+      img:hover .card3{
+        
+  
+      }
+      img, #parent {
+          cursor: pointer;
+          border-radius: 160px;
+          position: relative;
+          
+      }
+      .card3:hover > img{
+          opacity:1;
+             transform: scale(1.4);
+                   
+      }
+      .card3 header {
+          position:absolute;
+        top: 120%;
+        left: 0%;
+          padding: 1px;
+          border-radius:  25px;
+         width: 450px;
+               height: 90px;
+           transition: all .5s;
+          opacity:0;
+      }
+      .card3:hover > header{
+        
+          opacity:1;
+               width: 450px;
+               height: 90px;
+                   transform: translateY(-120px);
+      }
+      
+       .card3{
+      
+         transition: transform .7s;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      border-radius: 500px;
+        text-align: start;
+        font-family: arial;
+        background: white;
+          width: 250px;
+        height: 250px;
+        position: relative;
+        left:  44rem;
+        top: 7rem;
+      }
+      .card3:hover{
+      
+         transform: scale(1.08)
+      }
+
+      #card3-img{
+        border-radius: 260px;
+        position: relative;
+        top: 1rem;
+        width: 60px;
+      }
+        .centeri{ 
+        position: relative;
+        top: 50%;
+        left: 50%;
+        /* bring your own prefixes */
+        transform: translate(-50%, -50%);
+        }
+        span{
+          
+          position: relative;
+        }  
+        .roadstar{
+            font-size: 20px;
+            position: relative;
+            left: 4rem;
+            top: 5rem;
+            font-weight: bold;
+            color: aliceblue;
+            background-color: black;
+            width: 120px;
+          }
+          .fstoffer3{
+            font-size: 20px;
+            position: relative;
+            left: 3.50rem;
+            bottom: 0rem;
+            color: black;
+          }
+    
+
+          img:hover .card4{
+        
+  
+          }
+          img, #parent {
+              cursor: pointer;
+              border-radius: 160px;
+              position: relative;
+              
+          }
+          .card4:hover > img{
+              opacity:1;
+                 transform: scale(1.4);
+                       
+          }
+          .card4 header {
+              position:absolute;
+            top: 120%;
+            left: 0%;
+              padding: 1px;
+              border-radius:  25px;
+             width: 450px;
+                   height: 90px;
+               transition: all .5s;
+              opacity:0;
+          }
+          .card4:hover > header{
+            
+              opacity:1;
+                   width: 450px;
+                   height: 90px;
+                       transform: translateY(-120px);
+          }
+          
+           .card4 {
+          
+             transition: transform .7s;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          border-radius: 500px;
+            text-align: start;
+            font-family: arial;
+            background: white;
+              width: 250px;
+            height: 250px;
+            position: relative;
+            left:  64rem;
+            bottom: 9.08rem;
+          }
+          .card4:hover{
+          
+             transform: scale(1.08)
+          }
+    
+          #card4-img{
+            border-radius: 260px;
+            position: relative;
+            top: 1rem;
+            width: 20px;
+            height: 200px;
+          }
+            .centeri{ 
+            position: relative;
+            top: 50%;
+            left: 50%;
+            /* bring your own prefixes */
+            transform: translate(-50%, -50%);
+            }
+            span{
+              
+              position: relative;
+            }  
+            .jack{
+                font-size: 20px;
+                position: relative;
+                left: 3.10rem;
+                top: 4rem;
+                font-weight: bold;
+                color: aliceblue;
+                background-color: black;
+                width: 150px;
+              }
+              .fstoffer4{
+                font-size: 20px;
+                position: relative;
+                left: 3.50rem;
+                bottom: 1rem;
+                color: black;
+              }
+
+               .catagory{
+                 text-align: center;
+                 position: relative;
+                 bottom: 31rem;
+                 letter-spacing: 8px;
+                 color: #df21a2;
+              }
+       #ethenic{
+        position: relative;
+        bottom: 29rem;
+        left: 4rem;
+        width: 260px;
+        display: flex;
+        justify-content: space-between;
+       } 
+       .ethenic-wear{
+        width: 250px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 35.70rem;
+        left: 4.30rem;
+        border-radius: 20px;
+       }    
+       .ethenic-wear h5{
+        position: relative;
+        left: 4rem;
+       }  
+       .ethenic-wear h2{
+        position: relative;
+        left: 1.70rem;
+       }
+       .ethenic-wear h6{
+        position: relative;
+        left: 5rem;
+       }
+        #casual{
+        width: 260px;
+        position: relative;
+        bottom: 57.30rem;
+        left: 23rem;
+        display: flex;
+        justify-content: space-between;
+       }
+       .casual-wear{
+        width: 260px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 65.42rem;
+        left: 23rem;
+        border-radius: 20px;
+       }    
+       .casual-wear h5{
+        position: relative;
+        left: 4rem;
+       }  
+       .casual-wear h2{
+        position: relative;
+        left: 1.70rem;
+       }
+       .casual-wear h6{
+        position: relative;
+        left: 5rem;
+       } 
+        #sports{
+        width: 270px;
+        position: relative;
+        bottom: 87rem;
+        left: 41rem;
+        display: flex;
+        justify-content: space-between;
+       }
+       .sports-wear{
+        width: 270px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 95rem;
+        left: 41rem;
+        border-radius: 20px;
+       }    
+       .sports-wear h5{
+        position: relative;
+        left: 5rem;
+       }  
+       .sports-wear h2{
+        position: relative;
+        left: 2rem;
+       }
+       .sports-wear h6{
+        position: relative;
+        left: 6rem;
+       } 
+          /* .card-sports{
+        position: relative;
+        bottom: 30rem;
+        display: flex;
+        justify-content: end;
+        right: 30rem;
+       }    */
+       
+        #kids{
+        width: 270px;
+        position: relative;
+        bottom: 115rem;
+        left: 60rem;
+        display: flex;
+        justify-content: space-between;
+       }
+       .kids-wear{
+        width: 270px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 122rem;
+        left: 60rem;
+        border-radius: 20px;
+       }    
+       .kids-wear h5{
+        position: relative;
+        left: 5rem;
+       }  
+       .kids-wear h2{
+        position: relative;
+        left: 2rem;
+       }
+       .kids-wear h6{
+        position: relative;
+        left: 6rem;
+       } 
+
+        #watch{
+        width: 270px;
+        height: 350px;
+        position: relative;
+        bottom: 108rem;
+        left: 4rem;
+        display: flex;
+        justify-content: space-between;
+       }
+       .watch-wear{
+        width: 270px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 113.80rem;
+        left: 4rem;
+        border-radius: 20px;
+       }    
+       .watch-wear h5{
+        position: relative;
+        left: 5.60rem;
+       }  
+       .watch-wear h2{
+        position: relative;
+        left: 2rem;
+       }
+       .watch-wear h6{
+        position: relative;
+        left: 6rem;
+       } 
+
+        #beauty{
+        width: 260px;
+        height: 350px;
+        position: relative;
+        bottom: 139rem;
+        left: 24rem;
+        display: flex;
+        justify-content: space-between;
+       }
+       .beauty-product{
+        width: 270px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 144rem;
+        left: 24rem;
+        border-radius: 20px;
+       }    
+       .beauty-product h5{
+        position: relative;
+        left: 4rem;
+       }  
+       .beauty-product h2{
+        position: relative;
+        left: 2rem;
+       }
+       .beauty-product h6{
+        position: relative;
+        left: 6rem;
+       } 
+
+        #hand-bag{
+        width: 260px;
+        height: 350px;
+        position: relative;
+        bottom: 170rem;
+        left: 43rem;
+        display: flex;
+        justify-content: space-between;
+       }
+       .handbags{
+        width: 270px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 174rem;
+        left: 43rem;
+        border-radius: 20px;
+       }    
+       .handbags h5{
+        position: relative;
+        left: 5.7rem;
+       }  
+       .handbags h2{
+        position: relative;
+        left: 2rem;
+       }
+       .handbags h6{
+        position: relative;
+        left: 6rem;
+       }
+
+        #foot-wear{
+        width: 260px;
+        height: 350px;
+        position: relative;
+        bottom: 199rem;
+        left: 61.30rem;
+       }
+       .footwear{
+        width: 270px;
+        height: 130px;
+        background-color: goldenrod;
+        position: relative;
+        bottom: 204rem;
+        left: 61.30rem;
+        border-radius: 20px;
+       }    
+       .footwear h5{
+        position: relative;
+        left: 5.6rem;
+       }  
+       .footwear h2{
+        position: relative;
+        left: 2rem;
+       }
+       .footwear h6{
+        position: relative;
+        left: 6rem;
+       } 
+
+        #offer-img{
+        width: 100%;
+        height: 205px;
+        position: relative;
+        bottom: 195rem;
+        border-radius: 0%;
+       }
+       .offer-img-H{
+        position: relative;
+        bottom: 205rem;
+        text-align: end;
+        right: 5rem;
+       font-family: Impact, Haettenschweiler,  sans-serif;
+       font-size: 57px;
+       }
+       #phone-pic{
+        position: relative;
+        bottom: 212.4em;
+        left: 60px;
+        width: 200px;
+        height: 200px;
+       } 
+      
+
+    .footer{
+      width: 100%;
+      height: 500px;
+      background-color: rgb(58, 4, 58);
+      position: relative;
+      bottom: 207rem;
+  }
+  .footer-div{
+     
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .email-id{
+    width: 540px;
+    height: 60px;
+    position: relative;
+    bottom: 2rem;
+    left: 25rem;
+    border: none;
+    border-radius: 30px;
+    padding-left: 1rem;
+   }
+  .btn{
+    width: 120px;
+    height: 50px;
+    background-color: #eba817;
+    border: none;
+    border-radius: 30px;
+    position: relative;
+    bottom: 1.5rem;
+    left: 17.4rem;
+  }
+  .footer-child-last-div img{
+      width: 50px;
+      height: 50px;
+      border-radius: 200px;
+     
+  }
+
+  .footer-child-div h2{
+    color: #eba817;
+    font-size: 20px;
+    position: relative;
+    right: 30rem;
+    top: 5rem;
+  }
+ 
+  .footer-child-div a {
+      display: block;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      color: gray;
+      font-weight: bold;
+      position: relative;
+      top: 6rem;
+      right: 32.30rem;
+  }
+  .footer-child-div a:hover{
+      color: white;
+  
+  }
+
+  .footer-child-last-div{
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      top: 5rem;
+      right: 7rem;
+      color: gray;
+      
+  }
+  .footer-child-last-div img{
+    position: relative;
+    right: 1rem;
+  }
+ .keep-link{
+  position: relative;
+  top: 2rem;
+ }
+  .footer-sub-child{
+      display: flex;
+      margin-bottom: 15px;
+      
+  }
+  .links{
+    position: relative;
+    top: 2rem;
+  }
+  .links :hover{
+    color: aqua;
+  }
+  .text-center{
+    position: relative;
+    top: 6rem;
+    color:  #eba817;
+  } 
+
+    
+  
+  @media only screen and (max-width:707px) and (min-width:512px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+    }
+    .Fashion{
+      position: relative;
+      left: -10rem;
+      top: 1rem;
+      font-size: 20px;
+    }
+    .right-top-menu{
+  position: relative;
+  top: -1rem;
+  font-size: 15px;
+    }
+
+    .nav-child{
+      
+      display: flex;
+      justify-content: space-around;
+    }
+    .nav-child img{
+      position: relative;
+      right: 2rem;
+    }
+    .nav-child a{
+      word-spacing: 2px;
+      font-size: 12px;
+      position: relative;
+      right: 7rem;
+      bottom: 0rem;
+    }
+    .nav-child-search{
+      box-sizing: 2px;
+      width: 1px;
+      position: relative;
+      bottom: -0.6rem;
+      left: -10rem;
+      font-size: 8px;
+      
+    }
+    .nav-child-search button{
+      position: relative;
+      left: 6.6rem;
+      bottom: 1.2rem;
+    }
+    .now{
+      font-size: 14px;
+      padding-left: 310px;
+      letter-spacing: 5px;
+    }
+   
+    .card {
+
+      transition: transform .7s;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+border-radius: 500px;
+/* margin: auto; */
+text-align: start;
+font-family: arial;
+background: white;
+ width: 100px;
+height: 100px;
+position: relative;
+right: -1rem;
+top: 18rem;
+}
+
+.NIKE{
+ font-size: 12px;
+ position: relative;
+ left: 1rem;
+ top: -0rem;
+ font-weight: bold;
+ color: aliceblue;
+ background-color: black;
+ width: 80px;
+}
+.fstoffer{
+  font-size: 13px;
+  position: relative;
+  left: 1rem;
+  bottom: 3rem;
+  color: black;
+}
+
+.card2 {
+  
+  transition: transform .7s;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+border-radius: 500px;
+/* margin: auto; */
+text-align: start;
+font-family: arial;
+background: white;
+width: 100px;
+height: 100px;
+position: relative;
+left:  9rem;
+top: 12rem;
+}
+
+.levis{
+font-size: 13px;
+position: relative;
+left: 2rem;
+top: 0.2rem;
+font-weight: bold;
+background-color: red;
+width: 42px;
+}
+.fstoffer2{
+font-size: 13px;
+position: relative;
+left: 1rem;
+bottom: 2.6rem;
+color: black;
+}
+
+.card3{
+      
+  transition: transform .7s;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+border-radius: 500px;
+ text-align: start;
+ font-family: arial;
+ background: white;
+   width: 100px;
+ height: 100px;
+ position: relative;
+ left:  17rem;
+ top: 5rem;
+}
+ 
+ .roadstar{
+     font-size: 13px;
+     position: relative;
+     left: 1rem;
+     top: 2rem;
+     font-weight: bold;
+     color: aliceblue;
+     background-color: black;
+     width: 80px;
+   }
+   .fstoffer3{
+     font-size: 12px;
+     position: relative;
+     left: 1rem;
+     bottom: 1rem;
+     color: black;
+   }
+
+   .card4 {
+          
+    transition: transform .7s;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+ border-radius: 500px;
+   text-align: start;
+   font-family: arial;
+   background: white;
+     width: 100px;
+   height: 100px;
+   position: relative;
+   left:  25rem;
+   bottom: 1rem;
+ }
+
+ #card4-img{
+  border-radius: 260px;
+  position: relative;
+  top: 0rem;
+  width: 20px;
+  height: 100px;
+}
+   .jack{
+       font-size: 12px;
+       position: relative;
+       left: 0rem;
+       top: 1rem;
+       font-weight: bold;
+       color: aliceblue;
+       background-color: black;
+       width: 90px;
+     }
+     .fstoffer4{
+       font-size: 12px;
+       position: relative;
+       left: 1rem;
+       bottom: 2rem;
+       color: black;
+     }
+    
+     .catagory{
+      text-align: center;
+      position: relative;
+      bottom: 10rem;
+      letter-spacing: 8px;
+      color: #df21a2;
+      font-size: 12px;
+   }
+   .card-ethenic{
+    position: relative;
+    top: 5rem;
+   }
+#ethenic{
+position: relative;
+bottom: 14rem;
+left: 2rem;
+width: 100px;
+display: flex;
+justify-content: space-between;
+} 
+.ethenic-wear{
+width: 100px;
+height: 50px;
+background-color: goldenrod;
+position: relative;
+bottom: 16.5rem;
+left: 2rem;
+border-radius: 20px;
+}    
+.ethenic-wear h5{
+position: relative;
+left: 1rem;
+font-size: 12px;
+}  
+.ethenic-wear h2{
+position: relative;
+left: 1rem;
+font-size: 12px;
+}
+.ethenic-wear h6{
+position: relative;
+left: 1.5rem;
+font-size: 10px;
+bottom: 10px;
+}
+.card-casual{
+position: relative;
+top: 8rem;
+right: 3rem;
+}
+
+#casual{
+  width: 100px;
+  position: relative;
+  bottom: 28rem;
+  left: 13rem;
+  display: flex;
+  justify-content: space-between;
+ }
+ .casual-wear{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 30.8rem;
+  left: 13rem;
+  border-radius: 20px;
+ }    
+ .casual-wear h5{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }  
+ .casual-wear h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }
+ .casual-wear h6{
+  position: relative;
+  left: 1.6rem;
+  font-size: 11px;
+  bottom: 0.7rem;
+ } 
+  
+ .card-sports{
+  position: relative;
+  top: 11rem;
+  right: 6rem;
+ }
+ #sports{
+  width: 100px;
+  position: relative;
+  bottom: 42rem;
+  left: 24rem;
+  display: flex;
+  justify-content: space-between;
+ }
+ .sports-wear{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 44.5rem;
+  left: 24rem;
+  border-radius: 20px;
+ }    
+ .sports-wear h5{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }  
+ .sports-wear h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }
+ .sports-wear h6{
+  position: relative;
+  left: 1.6rem;
+  font-size: 11px;
+  bottom: 0.6rem;
+ } 
+  .card-kids{
+    position: relative;
+    right: 9rem;
+    top: 13.6rem;
+  }
+ #kids{
+  width: 100px;
+  position: relative;
+  bottom: 56rem;
+  left: 34rem;
+  display: flex;
+  justify-content: space-between;
+ }
+ .kids-wear{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 57.3rem;
+  left: 34rem;
+  border-radius: 20px;
+ }    
+ .kids-wear h5{
+  position: relative;
+  left: 1.5rem;
+  font-size: 12px;
+ }  
+ .kids-wear h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }
+ .kids-wear h6{
+  position: relative;
+  left: 1.6rem;
+  font-size: 11px;
+  bottom: 0.6rem;
+ } 
+ .card-watch{
+  position: relative;
+  top: 13rem;
+ }
+
+ #watch{
+  width: 100px;
+  height: 110px;
+  position: relative;
+  bottom: 55rem;
+  left: 2rem;
+  display: flex;
+  justify-content: space-between;
+ }
+ .watch-wear{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 57rem;
+  left: 2rem;
+  border-radius: 20px;
+ }    
+ .watch-wear h5{
+  position: relative;
+  left: 2em;
+  font-size: 12px;
+ }  
+ .watch-wear h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }
+ .watch-wear h6{
+  position: relative;
+  left: 1.7rem;
+  font-size: 11px;
+  bottom: 0.6rem;
+ }
+
+ .card-beauty{
+  position: relative;
+  top: 16.4rem;
+  right: 2.6rem;
+ }
+ #beauty{
+  width: 100px;
+  height: 120px;
+  position: relative;
+  bottom: 69rem;
+  left: 13rem;
+  display: flex;
+  justify-content: space-between;
+ }
+ .beauty-product{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 71rem;
+  left: 13rem;
+  border-radius: 20px;
+ }    
+ .beauty-product h5{
+  position: relative;
+  left: 0.7rem;
+  font-size: 12px;
+ }  
+ .beauty-product h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }
+ .beauty-product h6{
+  position: relative;
+  left: 2rem;
+  font-size: 11px;
+  bottom: 0.6rem;
+ }
+
+ .hand-bag{
+  position: relative;
+  top: 19.7rem;
+  right: 5.9rem;
+ }
+ #hand-bag{
+  width: 100px;
+  height: 120px;
+  position: relative;
+  bottom: 83rem;
+  left: 23.8rem;
+  display: flex;
+  justify-content: space-between;
+ }
+ .handbags{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 85rem;
+  left: 23.8rem;
+  border-radius: 20px;
+ }    
+ .handbags h5{
+  position: relative;
+  left: 1.5rem;
+  font-size: 12px;
+ }  
+ .handbags h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }
+ .handbags h6{
+  position: relative;
+  left: 2rem;
+  font-size: 11px;
+  bottom: 0.6rem;
+ }
+ .foot-wear{
+  position: relative;
+  top: 23rem;
+  right: 9.1rem;
+ }
+
+ #foot-wear{
+  width: 100px;
+  height: 120px;
+  position: relative;
+  bottom: 97rem;
+  left: 34rem;
+ }
+ .footwear{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 99em;
+  left: 34rem;
+  border-radius: 20px;
+ }    
+ .footwear h5{
+  position: relative;
+  left: 2rem;
+  font-size: 12px;
+ }  
+ .footwear h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+ }
+ .footwear h6{
+  position: relative;
+  left: 2rem;
+  font-size: 11px;
+  bottom: 0.6rem;
+ } 
+
+    /* #offer-img{
+  height: 130px;
+
+    }
+    .offer-img-H{
+      font-size: 25px;
+      padding-top: 65px;
+      
+    }
+    #phone-pic{
+      width: 120px;
+      height: 120px;
+     margin-top: 3rem;
+    } */
+    #offer-img{
+      width: 100%;
+      height: 130px;
+      position: relative;
+      bottom: 70rem;
+      border-radius: 0%;
+     }
+     .offer-img-H{
+      position: relative;
+      bottom: 75rem;
+      text-align: end;
+      right: 4rem;
+     font-family: Impact, Haettenschweiler,  sans-serif;
+     font-size: 17px;
+     }
+     #phone-pic{
+      position: relative;
+      bottom: 79.7rem;
+      left: 20px;
+      width: 120px;
+      height: 120px;
+     } 
+
+    .footer{
+      
+      position: relative;
+      bottom: 76rem;
+  }
+    .email-id{
+      width: 540px;
+      height: 60px;
+      position: relative;
+      bottom: 2rem;
+      left: 9.8rem;
+      border: none;
+      border-radius: 30px;
+      padding-left: 1rem;
+     }
+    .btn{
+      width: 120px;
+      height: 50px;
+      background-color: #eba817;
+      border: none;
+      border-radius: 30px;
+      position: relative;
+      bottom: 1.4rem;
+      left: 7rem;
+    }
+
+    .footer-child-div h2{
+      color: #eba817;
+      font-size: 14px;
+      position: relative;
+      right: 17rem;
+      top: 5rem;
+      display: flex;
+      justify-content: space-around;
+    }
+   
+    .footer-child-div a {
+        display: block;
+        text-align: center;
+        text-decoration: none;
+        font-size: 13px;
+        position: relative;
+        top: 6rem;
+        right: 18rem;
+    }
+    .footer-child-last-div img{
+      width: 40px;
+      height: 40px;
+      border-radius: 200px;
+     position: relative;
+     right: 3rem;
+  }
+  .footer-sub-child h6{
+    
+    font-size: 13px;
+    position: relative;
+     right: 2rem;
+}
+.text-center{
+ font-size: 17px;
+ padding-top: 2rem;
+}
+  } 
+
+  @media only screen and (max-width:512px) and (min-width:400px)
+  {
+      .main-block{
+          display: flex;
+          flex-direction: column;
+      }
+      .Fashion{
+        position: relative;
+        left: -10rem;
+        top: 1rem;
+        font-size: 20px;
+      }
+      .right-top-menu{
+    position: relative;
+    top: -1rem;
+    font-size: 15px;
+      }
+  
+      .nav-child{
+        
+        display: flex;
+        justify-content: space-around;
+      }
+      .nav-child img{
+        position: relative;
+        right: 2rem;
+      }
+      .nav-child a{
+        word-spacing: 2px;
+        font-size: 12px;
+        position: relative;
+        right: 7rem;
+        bottom: 0rem;
+      }
+      .nav-child-search{
+        box-sizing: 2px;
+        width: 1px;
+        position: relative;
+        bottom: -0.6rem;
+        left: -10rem;
+        font-size: 8px;
+        
+      }
+      .nav-child-search button{
+        position: relative;
+        left: 6.6rem;
+        bottom: 1.2rem;
+      }
+      .now{
+        font-size: 14px;
+        padding-left: 310px;
+        letter-spacing: 5px;
+      }
+     
+      .card {
+  
+        transition: transform .7s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 500px;
+  /* margin: auto; */
+  text-align: start;
+  font-family: arial;
+  background: white;
+   width: 100px;
+  height: 100px;
+  position: relative;
+  right: -1rem;
+  top: 18rem;
+  }
+  
+  .NIKE{
+   font-size: 12px;
+   position: relative;
+   left: 1rem;
+   top: -0rem;
+   font-weight: bold;
+   color: aliceblue;
+   background-color: black;
+   width: 80px;
+  }
+  .fstoffer{
+    font-size: 13px;
+    position: relative;
+    left: 1rem;
+    bottom: 3rem;
+    color: black;
+  }
+  
+  .card2 {
+    
+    transition: transform .7s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 500px;
+  /* margin: auto; */
+  text-align: start;
+  font-family: arial;
+  background: white;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left:  9rem;
+  top: 12rem;
+  }
+  
+  .levis{
+  font-size: 13px;
+  position: relative;
+  left: 2rem;
+  top: 0.2rem;
+  font-weight: bold;
+  background-color: red;
+  width: 42px;
+  }
+  .fstoffer2{
+  font-size: 13px;
+  position: relative;
+  left: 1rem;
+  bottom: 2.6rem;
+  color: black;
+  }
+  
+  .card3{
+        
+    transition: transform .7s;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 500px;
+   text-align: start;
+   font-family: arial;
+   background: white;
+     width: 100px;
+   height: 100px;
+   position: relative;
+   left:  17rem;
+   top: 5rem;
+  }
+   
+   .roadstar{
+       font-size: 13px;
+       position: relative;
+       left: 1rem;
+       top: 2rem;
+       font-weight: bold;
+       color: aliceblue;
+       background-color: black;
+       width: 80px;
+     }
+     .fstoffer3{
+       font-size: 12px;
+       position: relative;
+       left: 1rem;
+       bottom: 1rem;
+       color: black;
+     }
+  
+     .card4 {
+            
+      transition: transform .7s;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   border-radius: 500px;
+     text-align: start;
+     font-family: arial;
+     background: white;
+       width: 100px;
+     height: 100px;
+     position: relative;
+     left:  25rem;
+     bottom: 1rem;
+   }
+  
+   #card4-img{
+    border-radius: 260px;
+    position: relative;
+    top: 0rem;
+    width: 20px;
+    height: 100px;
+  }
+     .jack{
+         font-size: 12px;
+         position: relative;
+         left: 0rem;
+         top: 1rem;
+         font-weight: bold;
+         color: aliceblue;
+         background-color: black;
+         width: 90px;
+       }
+       .fstoffer4{
+         font-size: 12px;
+         position: relative;
+         left: 1rem;
+         bottom: 2rem;
+         color: black;
+       }
+      
+       .catagory{
+        text-align: center;
+        position: relative;
+        bottom: 10rem;
+        letter-spacing: 8px;
+        color: #df21a2;
+        font-size: 12px;
+     }
+     .parent-div{
+      display: flex;
+      flex-direction: row;
+     }
+     .card-ethenic{
+      position: relative;
+      top: 5rem;
+     }
+  #ethenic{
+  position: relative;
+  bottom: 14rem;
+  left: 2rem;
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+  } 
+  .ethenic-wear{
+  width: 100px;
+  height: 50px;
+  background-color: goldenrod;
+  position: relative;
+  bottom: 16.5rem;
+  left: 2rem;
+  border-radius: 20px;
+  }    
+  .ethenic-wear h5{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+  }  
+  .ethenic-wear h2{
+  position: relative;
+  left: 1rem;
+  font-size: 12px;
+  }
+  .ethenic-wear h6{
+  position: relative;
+  left: 1.5rem;
+  font-size: 10px;
+  bottom: 10px;
+  }
+  .card-casual{
+  position: relative;
+  top: 8rem;
+  right: 3rem;
+  }
+  
+  #casual{
+    width: 100px;
+    position: relative;
+    bottom: 28rem;
+    left: 13rem;
+    display: flex;
+    justify-content: space-between;
+   }
+   .casual-wear{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    position: relative;
+    bottom: 30.8rem;
+    left: 13rem;
+    border-radius: 20px;
+   }    
+   .casual-wear h5{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }  
+   .casual-wear h2{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }
+   .casual-wear h6{
+    position: relative;
+    left: 1.6rem;
+    font-size: 11px;
+    bottom: 0.7rem;
+   } 
+    
+   .card-sports{
+    position: relative;
+    top: 11rem;
+    right: 6rem;
+   }
+   #sports{
+    width: 100px;
+    position: relative;
+    bottom: 42rem;
+    left: 24rem;
+    display: flex;
+    justify-content: space-between;
+   }
+   .sports-wear{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    position: relative;
+    bottom: 44.5rem;
+    left: 24rem;
+    border-radius: 20px;
+   }    
+   .sports-wear h5{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }  
+   .sports-wear h2{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }
+   .sports-wear h6{
+    position: relative;
+    left: 1.6rem;
+    font-size: 11px;
+    bottom: 0.6rem;
+   } 
+    .card-kids{
+      position: relative;
+      right: 9rem;
+      top: 13.6rem;
+    }
+   #kids{
+    width: 100px;
+    position: relative;
+    bottom: 56rem;
+    left: 34rem;
+    display: flex;
+    justify-content: space-between;
+   }
+   .kids-wear{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    position: relative;
+    bottom: 57.3rem;
+    left: 34rem;
+    border-radius: 20px;
+   }    
+   .kids-wear h5{
+    position: relative;
+    left: 1.5rem;
+    font-size: 12px;
+   }  
+   .kids-wear h2{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }
+   .kids-wear h6{
+    position: relative;
+    left: 1.6rem;
+    font-size: 11px;
+    bottom: 0.6rem;
+   } 
+   .card-watch{
+    position: relative;
+    top: 13rem;
+   }
+  
+   #watch{
+    width: 100px;
+    height: 110px;
+    position: relative;
+    bottom: 55rem;
+    left: 2rem;
+    display: flex;
+    justify-content: space-between;
+   }
+   .watch-wear{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    position: relative;
+    bottom: 57rem;
+    left: 2rem;
+    border-radius: 20px;
+   }    
+   .watch-wear h5{
+    position: relative;
+    left: 2em;
+    font-size: 12px;
+   }  
+   .watch-wear h2{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }
+   .watch-wear h6{
+    position: relative;
+    left: 1.7rem;
+    font-size: 11px;
+    bottom: 0.6rem;
+   }
+  
+   .card-beauty{
+    position: relative;
+    top: 16.4rem;
+    right: 2.6rem;
+   }
+   #beauty{
+    width: 100px;
+    height: 120px;
+    position: relative;
+    bottom: 69rem;
+    left: 13rem;
+    display: flex;
+    justify-content: space-between;
+   }
+   .beauty-product{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    position: relative;
+    bottom: 71rem;
+    left: 13rem;
+    border-radius: 20px;
+   }    
+   .beauty-product h5{
+    position: relative;
+    left: 0.7rem;
+    font-size: 12px;
+   }  
+   .beauty-product h2{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }
+   .beauty-product h6{
+    position: relative;
+    left: 2rem;
+    font-size: 11px;
+    bottom: 0.6rem;
+   }
+  
+   .hand-bag{
+    position: relative;
+    top: 19.7rem;
+    right: 5.9rem;
+   }
+   #hand-bag{
+    width: 100px;
+    height: 120px;
+    position: relative;
+    bottom: 83rem;
+    left: 23.8rem;
+    display: flex;
+    justify-content: space-between;
+   }
+   .handbags{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    position: relative;
+    bottom: 85rem;
+    left: 23.8rem;
+    border-radius: 20px;
+   }    
+   .handbags h5{
+    position: relative;
+    left: 1.5rem;
+    font-size: 12px;
+   }  
+   .handbags h2{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }
+   .handbags h6{
+    position: relative;
+    left: 2rem;
+    font-size: 11px;
+    bottom: 0.6rem;
+   }
+   .foot-wear{
+    position: relative;
+    top: 23rem;
+    right: 9.1rem;
+   }
+  
+   #foot-wear{
+    width: 100px;
+    height: 120px;
+    position: relative;
+    bottom: 97rem;
+    left: 34rem;
+   }
+   .footwear{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    position: relative;
+    bottom: 99em;
+    left: 34rem;
+    border-radius: 20px;
+   }    
+   .footwear h5{
+    position: relative;
+    left: 2rem;
+    font-size: 12px;
+   }  
+   .footwear h2{
+    position: relative;
+    left: 1rem;
+    font-size: 12px;
+   }
+   .footwear h6{
+    position: relative;
+    left: 2rem;
+    font-size: 11px;
+    bottom: 0.6rem;
+   } 
+  
+      /* #offer-img{
+    height: 130px;
+  
+      }
+      .offer-img-H{
+        font-size: 25px;
+        padding-top: 65px;
+        
+      }
+      #phone-pic{
+        width: 120px;
+        height: 120px;
+       margin-top: 3rem;
+      } */
+      #offer-img{
+        width: 100%;
+        height: 130px;
+        position: relative;
+        bottom: 70rem;
+        border-radius: 0%;
+       }
+       .offer-img-H{
+        position: relative;
+        bottom: 75rem;
+        text-align: end;
+        right: 4rem;
+       font-family: Impact, Haettenschweiler,  sans-serif;
+       font-size: 17px;
+       }
+       #phone-pic{
+        position: relative;
+        bottom: 79.7rem;
+        left: 20px;
+        width: 120px;
+        height: 120px;
+       } 
+  
+      .footer{
+        
+        position: relative;
+        bottom: 76rem;
+    }
+      .email-id{
+        width: 540px;
+        height: 60px;
+        position: relative;
+        bottom: 2rem;
+        left: 9.8rem;
+        border: none;
+        border-radius: 30px;
+        padding-left: 1rem;
+       }
+      .btn{
+        width: 120px;
+        height: 50px;
+        background-color: #eba817;
+        border: none;
+        border-radius: 30px;
+        position: relative;
+        bottom: 1.4rem;
+        left: 7rem;
+      }
+  
+      .footer-child-div h2{
+        color: #eba817;
+        font-size: 14px;
+        position: relative;
+        right: 17rem;
+        top: 5rem;
+        display: flex;
+        justify-content: space-around;
+      }
+     
+      .footer-child-div a {
+          display: block;
+          text-align: center;
+          text-decoration: none;
+          font-size: 13px;
+          position: relative;
+          top: 6rem;
+          right: 18rem;
+      }
+      .footer-child-last-div img{
+        width: 40px;
+        height: 40px;
+        border-radius: 200px;
+       position: relative;
+       right: 3rem;
+    }
+    .footer-sub-child h6{
+      
+      font-size: 13px;
+      position: relative;
+       right: 2rem;
+  }
+  .text-center{
+   font-size: 17px;
+   padding-top: 2rem;
+  }
+    } 
